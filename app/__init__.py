@@ -1,0 +1,1 @@
+"""SmartHouse AI API package."""
