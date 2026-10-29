@@ -132,10 +132,10 @@ Metrics are computed from the held-out test split and written to `models/metrics
 4. Add screenshots of `/docs` and successful sample responses after running the app.
 5. Push the repository to GitHub.
 
-## Future improvements
-
-- Add structured logging and request IDs.
-- Add Docker support and CI tests.
-- Compare Random Forest with Linear Regression and Gradient Boosting.
-- Add feature importance analysis and model versioning.
-- Deploy to a cloud platform after validating configuration and resource usage.
+## Technologies Used
+Python
+Pandas
+Scikit-learn
+FastAPI
+Uvicorn
+Joblib
